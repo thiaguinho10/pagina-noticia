@@ -1,0 +1,73 @@
+body{
+
+font-family:Oswald,sans-serif ;
+margin: 0;
+padding: 0;
+
+}
+
+h1,h2{
+
+color:black
+
+}
+
+.top-bar{
+
+font-family: Roboto;   
+background-color: #CA150E;
+color:  rgb(255, 255, 255);
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+padding: 8px;
+height: 40px;
+
+}
+
+.conteiner{
+
+max-width: 888px;
+margin: auto;
+padding: 30px;
+
+}
+
+.headline{
+
+font-size: 56px;
+line-height: 64px;
+
+}
+
+.social-icons{
+
+margin-top: 10px;
+
+}
+
+.social-icon{
+
+padding: 10px 10px 10px 0px;
+
+}
+
+.subtitle{
+
+font-weight: bold;
+font-size: 0.8em;
+
+}
+
+.tamanho{
+
+
+height:  30px;
+
+}
+
+a{  
+
+text-decoration: none;
+
+}
